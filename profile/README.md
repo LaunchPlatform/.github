@@ -2,12 +2,12 @@
 
 Launch Platform is a startup focusing on building innovative, high-quality software. The core values of our company:
 
-- 🎉 Have fun - Innovation is challenging, but at least we hope to have some fun, enjoy the process, embrace failures and learn.
-- ➖ Less is more - Making things complex is easy. Making things simple is hard, and that's what we aim for.
-- 🍵 Slow down, so it's faster - To move faster in the long run, we prefer to slow down and take time to make things right.
-- 💡 Work smart - There's always a better way to do it. Always think about working smarter.
-- 🙈 Privacy matters - Customer privacy matters to us, the only product we sell is the product, and it's only for serving our customers.
-- 🎁 Open source - We build most of our software upon open-source software. We love open-source and would like to give back as much as possible.
+- 🎉 **Have fun** - Innovation is challenging, but at least we hope to have some fun, enjoy the process, embrace failures and learn.
+- ➖ **Less is more** - Making things complex is easy. Making things simple is hard, and that's what we aim for.
+- 🍵 **Slow down, so it's faster** - To move faster in the long run, we prefer to slow down and take time to make things right.
+- 💡 **Work smart** - There's always a better way to do it. Always think about working smarter.
+- 🙈 **Privacy matters** - Customer privacy matters to us, the only product we sell is the product, and it's only for serving our customers.
+- 🎁 **Open source** - We build most of our software upon open-source software. We love open-source and would like to give back as much as possible.
 
 Currently, we have three main SaaS products:
 
